@@ -1,0 +1,57 @@
+{
+    "Images": [
+        ".png",
+        ".jpg",
+        ".jpeg",
+        ".gif",
+        ".bmp",
+        ".tiff"
+    ],
+    "Documents": [
+        ".doc",
+        ".docx",
+        ".txt",
+        ".md",
+        ".ppt",
+        ".pptx",
+        ".rtf",
+        ".odt"
+    ],
+    "PDFs": [
+        ".pdf"
+    ],
+    "Videos": [
+        ".mp4",
+        ".mov",
+        ".avi",
+        ".mkv"
+    ],
+    "Spreadsheets": [
+        ".xlsx",
+        ".xls",
+        ".csv"
+    ],
+    "Archives": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz"
+    ],
+    "Audio": [
+        ".mp3",
+        ".wav",
+        ".aac",
+        ".flac"
+    ],
+    "Code": [
+        ".py",
+        ".java",
+        ".js",
+        ".html",
+        ".css",
+        ".json",
+        ".c",
+        ".cpp"
+    ]
+}
